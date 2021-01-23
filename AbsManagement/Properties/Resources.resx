@@ -136,9 +136,12 @@
   <data name="transparency" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\transparency.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< Updated upstream:AbsManagement/Properties/Resources.resx
   <data name="plus" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\plus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+=======
+>>>>>>> Stashed changes:AbsManagement/projetabc/Properties/Resources.resx
   <data name="delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -148,7 +151,12 @@
   <data name="depositphotos_220729084-stock-photo-smiling-adult-man-crossed-arms" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\depositphotos_220729084-stock-photo-smiling-adult-man-crossed-arms.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+<<<<<<< Updated upstream:AbsManagement/Properties/Resources.resx
   <data name="téléchargement" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\téléchargement.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+=======
+  <data name="plus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+>>>>>>> Stashed changes:AbsManagement/projetabc/Properties/Resources.resx
   </data>
 </root>

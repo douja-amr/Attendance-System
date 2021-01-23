@@ -115,8 +115,11 @@
   <ItemGroup>
     <None Include="Resources\plus.png" />
   </ItemGroup>
+<<<<<<< Updated upstream:AbsManagement/projetabc.csproj
   <ItemGroup>
     <None Include="Resources\téléchargement.png" />
   </ItemGroup>
+=======
+>>>>>>> Stashed changes:AbsManagement/projetabc/projetabc.csproj
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
